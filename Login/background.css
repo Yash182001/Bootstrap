@@ -1,0 +1,18 @@
+.container{
+    width: 30%;
+}
+ 
+body{
+    background-image: url('background.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}

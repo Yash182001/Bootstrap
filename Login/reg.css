@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: lightgray;
+    
+}
+
+.container{
+    width:50%;
+}
+
+.btn:hover{
+    background-color: gray;
+
+}
+
